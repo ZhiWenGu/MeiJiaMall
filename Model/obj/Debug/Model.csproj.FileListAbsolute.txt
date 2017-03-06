@@ -1,0 +1,12 @@
+F:\NET_Project\OnlineMail\Model\bin\Debug\Model.dll
+F:\NET_Project\OnlineMail\Model\bin\Debug\Model.pdb
+F:\NET_Project\OnlineMail\Model\obj\Debug\Model.dll
+F:\NET_Project\OnlineMail\Model\obj\Debug\Model.pdb
+F:\Git\OnlineMail\Model\bin\Debug\Model.dll
+F:\Git\OnlineMail\Model\bin\Debug\Model.pdb
+F:\Git\OnlineMail\Model\obj\Debug\Model.dll
+F:\Git\OnlineMail\Model\obj\Debug\Model.pdb
+F:\首页开发\首页开发\Model\bin\Debug\Model.dll
+F:\首页开发\首页开发\Model\bin\Debug\Model.pdb
+F:\首页开发\首页开发\Model\obj\Debug\Model.dll
+F:\首页开发\首页开发\Model\obj\Debug\Model.pdb
